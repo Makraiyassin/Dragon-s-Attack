@@ -9,6 +9,8 @@ Ensuite ouvrez-le en copiant le chemin du fichier "main" sur le terminal.
 (attention, vaut mieux vous placer dans le dossier où se trouve fichier en question au niveau de votre terminal avant de lancer la commande)
 Vous pouvez aussi simplement faire un double click sur le fichier main.
 
+*Afin que le jeu tourne sur votre machine, il faut installer le module "pygame"
+
 ## Développeur
 
 * **Yassin Makrai** 
